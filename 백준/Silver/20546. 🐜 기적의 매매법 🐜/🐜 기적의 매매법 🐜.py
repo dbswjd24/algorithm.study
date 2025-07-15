@@ -1,5 +1,3 @@
-# week1day8_fixed.py
-
 cash = int(input())
 prices = list(map(int, input().split()))
 
